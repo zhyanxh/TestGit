@@ -5,5 +5,6 @@ public class Happy {
 		System.out.println("test ...");
 		System.out.println("more test ...");
 		System.out.println("test conflict left");
+		System.out.println("hot fix ...");
 	}
 }
